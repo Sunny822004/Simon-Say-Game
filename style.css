@@ -21,7 +21,7 @@ h1 {
 
 .btn {
     width: 35vw;
-    height: 40vw;
+    height: 60vw;
     max-width: 150px;
     max-height: 150px;
     border-radius: 20%;
@@ -41,18 +41,22 @@ h1 {
 /* Individual colors */
 .blue { 
     background-color: blue; 
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-right: 20px;
 } 
 
 .chartreuse {
      background-color: chartreuse; 
+     margin-top: 50px;
 }
 .hotpink { 
     background-color: hotpink;
+    margin-top: 50px;
 }
 .darkorange { 
     background-color: darkorange;
-    margin-top: 20px;
+    margin-top: 60px;
+    margin-bottom: 200px;
 }
 
 /* Flash effects */
