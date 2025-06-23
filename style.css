@@ -41,6 +41,7 @@ h1 {
 /* Individual colors */
 .blue { 
     background-color: blue; 
+    margin-top: 20px;
 } 
 
 .chartreuse {
@@ -50,7 +51,8 @@ h1 {
     background-color: hotpink;
 }
 .darkorange { 
-    background-color: darkorange; 
+    background-color: darkorange;
+    margin-top: 20px;
 }
 
 /* Flash effects */
