@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-image: url("simon-game-card.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: #ff0303;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid rgb(243, 218, 218);
+    margin: 2.5rem;
+}
+
+/* Individual button colors */
+.blue {
+    background-color: blue;
+}
+.chartreuse {
+    background-color: chartreuse;
+}
+.hotpink {
+    background-color: hotpink;
+}
+.darkorange {
+    background-color: darkorange;
+}
+
+/* Flash effects (optional) */
+.flash {
+    opacity: 0.5;
+}
+.userflash {
+    box-shadow: 0 0 10px white;
+}
+
+.btn-container p{
+    margin-top: 40%;
+    font-size: 40px;
+}
+
+.flash {
+    background-color: aliceblue;
+}
+
+.userflash {
+    background-color: green;
+}
